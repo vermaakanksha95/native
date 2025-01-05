@@ -100,12 +100,12 @@ const styles = StyleSheet.create({
     justifyContent: "space-evenly",
   },
   socialLinks: {
-    fontSize: 16,
+    fontSize: 14,
     color: "#000000",
     backgroundColor: "#FFF",
     paddingHorizontal: 20,
     paddingVertical: 6,
-    borderRadius:6
+    borderRadius:4
    
   },
 });
