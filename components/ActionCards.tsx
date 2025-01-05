@@ -58,7 +58,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 8,
   },
   card: {
-    width: 350,
+    width: 320,
     height: 360,
     borderRadius: 6,
     marginVertical: 12,
@@ -83,7 +83,7 @@ const styles = StyleSheet.create({
   headerText: {
     color: "#000",
     fontSize: 16,
-    fontWeight: "600",
+    fontWeight: "400",
   },
   cardImage: {
     height: 300,
@@ -91,7 +91,7 @@ const styles = StyleSheet.create({
     
   },
   bodyContainer: {
-    padding: 10,
+    padding: 7,
   },
   footerContainer: {
     padding: 8,
