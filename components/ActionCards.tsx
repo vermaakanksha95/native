@@ -21,7 +21,7 @@ export default function ActionCards() {
         style={styles.cardImage}
       />
       <View style={styles.bodyContainer}>
-        <Text numberOfLines={3}>
+        <Text numberOfLines={6}>
           At Comestro, we believe in the power of innovation and technology to
           transform businesses. Based in Purnea, Bihar, we specialize in
           developing high-quality web applications, mobile apps, and custom
@@ -35,7 +35,7 @@ export default function ActionCards() {
         <TouchableOpacity
           onPress={() => openWebsite("https://www.comestro.com/")}
         >
-          <Text style={styles.socialLinks}>Read More...</Text>
+          <Text style={styles.socialLinks}>Read More....</Text>
         </TouchableOpacity>
         <TouchableOpacity
           onPress={() =>
